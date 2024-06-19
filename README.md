@@ -13,6 +13,6 @@
 
 ## Próximos passos
 
-- Implementar banco de dados para acompanhamento de portifólio 
+- Implementar banco de dados para acompanhamento de portfólio 
 - Sistema de alertas de variação de preços
 - 
