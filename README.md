@@ -8,7 +8,7 @@
 
 | **Frontend** | **Backend** |     **APIs**    |
 |:------------:|:-----------:|:---------------:|
-|     React    |   Node.js   | Mercado Bitcoin |
+|     React    |   Node.js   |     Binance     |
 |              |   Express   |                 |
 
 ## Próximos passos
